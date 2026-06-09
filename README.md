@@ -42,11 +42,11 @@ Os valores dos sensores são mostrados em tempo real no display LCD.
                        
 Foi adicionado um nível intermediário de alerta utilizando o LED amarelo, permitindo identificar situações de atenção antes de chegar ao estado crítico.                                              
 
-## Vídeo de Apresentação                                                               
+## Vídeo de Apresentação:                                                               
 
 https://youtu.be/7_5Zks49MlA                                                  
                              
-## Projeto no Tinkercad                                                   
+## Projeto no Tinkercad:                                                  
                                                                   
 https://www.tinkercad.com/things/jjGc84WBaKY-sistema-iot-para-monitoramento-de-capsula-espacial?sharecode=UCxHtZK7ECGSnIuESuyKXsgZ-26_QAGiJtTzjO9Xwe0
 
